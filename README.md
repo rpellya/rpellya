@@ -42,4 +42,4 @@
 
 **CI/CD:** Azure DevOps • Docker • CI/CD pipelines and automation
 
-**AI Tools:** Claude • OpenAI Codex
+**AI Tools:** Claude • OpenAI Codex • Gemini
